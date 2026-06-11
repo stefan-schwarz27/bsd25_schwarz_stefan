@@ -29,7 +29,9 @@ Students can browse and register for topics. Lecturers can manage topics and vie
 
 * [Exercise1 Part1](exercise1_part1.md)
 * [Exercise1 Part2](exercise1_part2.md)
-* Exercise2
+* [Exercise1 Part3](exercise1_part3.md)
+Image for exercise 3:
+![Git Status and branchname](resources/images/ex1_1.png)
 
 ## Contributing
 
